@@ -1,1 +1,5 @@
-Primeira linha
+- Criar sua conta no GIT - OK
+- Explicar um pouco sobre o GIT - OK
+- Criar um repositório simples - OK
+- Subir seu código - Não deu
+- Dicas e ferramentas - OK
