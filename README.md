@@ -1,5 +1,5 @@
 
-# Projeto de Hands On com o GitGub
+# Projeto de Hands On com o GitHub
 
 Entendo de tudo!!!
 
